@@ -1,0 +1,25 @@
+@charset "utf-8";
+.box1 {
+    width: 0px;
+    height: 112px;
+    background-color: #ECDAB6;
+    text-align: center;
+    line-height: 150px;
+    flex: 1;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.box2 {
+    width: 0px;
+    height: 0px;
+    background-color: #ECC1B6;
+    min-height: 107px;
+    text-align: center;
+    line-height: 150px;
+    flex: 1;
+}
